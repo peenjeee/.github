@@ -1,5 +1,9 @@
 # Aidnara AI
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RamsNotes31/Aidnara-AI/main/docs/logo/aidnara_ai_logo.png" alt="Aidnara AI logo" width="160" />
+</div>
+
 **Transparent Aid, Verified Impact**
 
 Aidnara AI builds transparent donation tools powered by **BNB Smart Chain** and AI-assisted impact verification.
