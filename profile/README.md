@@ -4,6 +4,19 @@
 
 Aidnara AI builds transparent donation tools powered by **BNB Smart Chain** and AI-assisted impact verification.
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nodejs,postgres,supabase,solidity,ethereum,vercel&theme=dark" alt="Aidnara AI tech stack icons" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/BNB%20Smart%20Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" alt="BNB Smart Chain" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=111111" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethers.js" />
+  <img src="https://img.shields.io/badge/viem-111111?style=for-the-badge&logo=ethereum&logoColor=white" alt="viem" />
+  <img src="https://img.shields.io/badge/wagmi-000000?style=for-the-badge&logo=walletconnect&logoColor=white" alt="wagmi" />
+  <img src="https://img.shields.io/badge/RainbowKit-0E76FD?style=for-the-badge&logo=walletconnect&logoColor=white" alt="RainbowKit" />
+  <img src="https://img.shields.io/badge/BscScan-121D33?style=for-the-badge&logo=binance&logoColor=F3BA2F" alt="BscScan" />
+</div>
+
 ## What Aidnara Means
 
 **Aidnara AI** means **human-centered aid with AI-verified impact**.
@@ -39,6 +52,32 @@ Aidnara AI helps organizers and donors complete one transparent flow:
 - Organizer transparency certificate
 - QR-based public verification
 
+## Tech Stack
+
+Frontend:
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- wagmi
+- viem
+- RainbowKit
+
+Backend:
+
+- Node.js / Next.js route handlers
+- Supabase Postgres
+- Supabase Storage
+- Gemini Vision or OpenAI Vision
+
+Web3 & Blockchain:
+
+- BNB Smart Chain Testnet
+- Solidity
+- Hardhat
+- ethers.js
+- BscScan Testnet
+
 ## Blockchain Network
 
 MVP network:
@@ -61,6 +100,6 @@ Production target:
 
 ## Project Status
 
-Current phase: MVP planning and PRD preparation.
+Current phase: MVP foundation prepared with PRD, backend baseline, smart contract, and Hardhat test suite.
 
-Next phase: frontend, backend, smart contract, and AI verification implementation.
+Next phase: frontend scaffold, API runtime, and full demo integration.
